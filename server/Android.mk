@@ -66,6 +66,7 @@ LOCAL_SRC_FILES := \
         NetworkController.cpp \
         PhysicalNetwork.cpp \
         PppController.cpp \
+        QtiConnectivityController.cpp \
         ResolverController.cpp \
         RouteController.cpp \
         SockDiag.cpp \
